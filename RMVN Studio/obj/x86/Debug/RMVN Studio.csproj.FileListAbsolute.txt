@@ -1,0 +1,27 @@
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\Ijwhost.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\RMVN Studio.exe.config
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\RMVN Studio.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\69024-bunifu_ui_v1.52.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\DirectMidiNet.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\Jacobi.Vst.Core.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\Jacobi.Vst.Host.Interop.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\NAudio.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\ProgressBar.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\WinFormAnimation.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\System.Buffers.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\Jacobi.Vst.Core.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\Jacobi.Vst.Host.Interop.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\NAudio.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x86\Debug\ProgressBar.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.csprojAssemblyReference.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.exe.config
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN_Studio.LoadApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN_Studio.MainApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN_Studio.Properties.Resources.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN_Studio.Setting.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.csproj.GenerateResource.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.csproj.CopyComplete
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x86\Debug\RMVN Studio.pdb

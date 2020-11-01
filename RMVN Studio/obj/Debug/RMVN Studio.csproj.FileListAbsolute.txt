@@ -1,0 +1,20 @@
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\RMVN Studio.exe.config
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\RMVN Studio.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.csprojAssemblyReference.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN_Studio.MainApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN_Studio.Properties.Resources.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.csproj.GenerateResource.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\DirectMidiNet.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN Studio.csproj.CopyComplete
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN_Studio.Setting.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\Debug\RMVN_Studio.LoadApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\NAudio.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\NAudio.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\69024-bunifu_ui_v1.52.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\ProgressBar.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\WinFormAnimation.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\Debug\ProgressBar.xml

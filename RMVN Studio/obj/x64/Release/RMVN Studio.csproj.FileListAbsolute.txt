@@ -1,0 +1,97 @@
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\RMVN Studio.exe.config
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\RMVN Studio.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\69024-bunifu_ui_v1.52.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\DirectMidiNet.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Core.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Framework.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Interop.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\NAudio.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\ProgressBar.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\WinFormAnimation.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Core.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Framework.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\Jacobi.Vst.Interop.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\NAudio.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\ProgressBar.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.csprojAssemblyReference.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.LoadApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.MainApp.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Properties.Resources.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Setting.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.csproj.GenerateResource.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.csproj.CopyComplete
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.exe
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN Studio.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Media.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Media.IO.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Midi.Components.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Midi.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Midi.IO.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CannedBytes.Midi.Message.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\libmp3lame.32.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\libmp3lame.64.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\NAudio.Lame.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.VST.VstViewer.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x64\avcodec-57.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x64\avformat-57.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x64\avutil-55.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x64\swresample-2.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x86\avcodec-57.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x86\avformat-57.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x86\avutil-55.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\bin\windows\x86\swresample-2.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\bzip2.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\fontconfig.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\freetype.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\frei0r.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\gme.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\gnutls.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\lame.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libass.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libbluray.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libbs2b.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libcaca.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libgsm.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libiconv.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libilbc.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libmfx.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libmodplug.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libtheora.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libvorbis.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libvpx.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\libwebp.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\opencore-amr.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\openjpeg.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\opus.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\rtmpdump.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\schroedinger.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\snappy.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\soxr.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\speex.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\twolame.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\vid.stab.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\vo-amrwbenc.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\wavpack.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\x264.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\x265.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\xavs.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\xvid.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\xz.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\zimg.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\licenses\zlib.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\FFmpeg\src\sources.txt
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CSCore.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CSCore.Ffmpeg.dll
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CSCore.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\CSCore.Ffmpeg.xml
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\bin\x64\Release\NAudio.Lame.pdb
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Windows.PianoRoll.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Windows.Plugins.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Windows.PluginsInfo.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Mixer.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Windows.Channels.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.Windows.MixerControl.resources
+C:\Users\ngoan\source\repos\RMVN Studio\RMVN Studio\obj\x64\Release\RMVN_Studio.VST.EffectVstViewer.resources
