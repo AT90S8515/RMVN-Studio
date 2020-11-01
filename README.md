@@ -1,5 +1,5 @@
 # RMVN-Studio
-RMVN Studio is DAW create in C# and litte C++
+RMVN Studio is DAW create in C#
 
 # Build
 Use Visual Studio 2017+ to build
